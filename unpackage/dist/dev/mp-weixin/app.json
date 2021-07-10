@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/plan/index",
+    "pages/login/index",
+    "pages/login/agreement",
+    "pages/trip/mapPage",
+    "pages/question/index",
+    "pages/trip/index",
+    "pages/login/regist",
+    "pages/index/index",
+    "pages/plan/showRoute",
+    "pages/user/index",
+    "pages/route/routeDetail",
+    "pages/trip/toVehicle",
+    "pages/trip/selectPoint",
+    "pages/nearby/index",
+    "pages/vehicleStrategy/index",
+    "pages/home/index",
+    "pages/question/quiz",
+    "pages/detail/index",
+    "pages/comment/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#0084ff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap32.json"
+}

@@ -1,0 +1,103 @@
+
+.recommend-main.data-v-23fbd21c{
+	border-bottom: 20rpx solid #f7f6f6;
+}
+.recommend-title.data-v-23fbd21c{
+	height: 60rpx;
+	/* background-color: #0A98D5; */
+	font-size: 36rpx;
+	font-weight: bold;
+}
+.recommend-container.data-v-23fbd21c{
+	height: 150rpx;
+	/* background-color: #09BB07; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.recommend-container-content.data-v-23fbd21c{
+	-webkit-box-flex: 3;
+	-webkit-flex: 3;
+	        flex: 3;
+	/* background-color: #6699FF; */
+}
+.recommend-container-img.data-v-23fbd21c{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	/* background-color: #E80080; */
+}
+.recommend-user.data-v-23fbd21c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.recommend-userImg image.data-v-23fbd21c{
+	height: 50rpx;
+	width: 50rpx;
+	border-radius: 50%;
+}
+.recommend-userName.data-v-23fbd21c{
+	margin-left: 10rpx;
+	font-size: 28rpx;
+	color: #686868;
+}
+.recommend-container-img image.data-v-23fbd21c{
+	height: 70%;
+	width: 100%;
+	border-radius: 20rpx;
+}
+.recommend-user.data-v-23fbd21c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.recommend-text.data-v-23fbd21c{
+	padding-right: 20rpx;
+	display: -webkit-box;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	word-wrap: break-word;
+	white-space: normal !important;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	color: #4f4f4f;
+}
+.recommend-footer.data-v-23fbd21c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 60rpx;
+}
+.recommend-footer text.data-v-23fbd21c{
+	font-size: 26rpx;
+	color: #9e9e9e;
+}
+/* .recommend-footer button{
+	background-color: #ffffff;
+	height: 50upx;
+	width: 100upx;
+	font-size: 20upx;
+	font-weight: bold;
+	color: #9e9e9e;
+	border: 1upx solid #ffffff;
+} */
+.no-comment.data-v-23fbd21c{
+	padding: 30rpx;
+}
+

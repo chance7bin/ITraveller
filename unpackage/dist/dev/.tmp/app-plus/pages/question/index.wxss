@@ -1,0 +1,104 @@
+
+.ask-question.data-v-21de058c{
+	height: 100rpx;
+	padding: 30rpx;
+	/* background-color: #007AFF; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-bottom: 20rpx solid #f6f7fa;
+}
+.user-img.data-v-21de058c{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.user-img image.data-v-21de058c{
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 50%;
+}
+.input.data-v-21de058c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background-color: #f6f7fa;
+	-webkit-box-flex: 5;
+	-webkit-flex: 5;
+	        flex: 5;
+	height: 75%;
+	border-radius: 40rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-left: 40rpx;
+	color: grey;
+	font-size: 28rpx;
+}
+.quiz.data-v-21de058c{
+	padding: 30rpx;
+	border-bottom: 20rpx solid #f7f6f6;
+}
+.user-info.data-v-21de058c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.user-info-img.data-v-21de058c{
+}
+.user-info-img image.data-v-21de058c{
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 50%;
+}
+.user-info-detail.data-v-21de058c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin-left: 20rpx;
+}
+.user-info-name.data-v-21de058c{
+	font-size: 30rpx;
+	color: #1584ff;
+	font-weight: bold;
+}
+.user-info-date.data-v-21de058c{
+	font-size: 26rpx;
+	color: #686868;
+}
+.quiz-type.data-v-21de058c{
+	margin-top: 10rpx;
+	color: #007AFF;
+}
+.quiz-text.data-v-21de058c{
+	margin-top: 10rpx;
+	font-weight: bold;
+	font-size: 36rpx;
+}
+.quiz-img.data-v-21de058c{
+	margin-top: 10rpx;
+}
+.quiz-img image.data-v-21de058c{
+	width: 240rpx;
+	height: 180rpx;
+	border-radius: 20rpx;
+}
+.quiz-footer.data-v-21de058c{
+	margin-top: 10rpx;
+	font-size: 30rpx;
+	color: #9e9e9e;
+}
+.quiz-footer text.data-v-21de058c{
+	margin-right: 40rpx;
+}
+

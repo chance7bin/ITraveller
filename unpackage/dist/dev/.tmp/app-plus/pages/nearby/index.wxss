@@ -1,0 +1,119 @@
+
+.top-item.data-v-7aec4fa5{
+	margin: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 100rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	/* margin: 10upx; */
+}
+.point-name.data-v-7aec4fa5{
+	margin: 0 20rpx;
+	font-size: large;
+	font-weight: bold;
+	color: #6b6b6b;
+	/* flex: 3; */
+}
+.return-to-options.data-v-7aec4fa5{
+	margin: 0 20rpx;
+}
+.vehicle-type.data-v-7aec4fa5{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.vehicle-type button.data-v-7aec4fa5{
+	width: 150rpx;
+}
+/* POI */
+.circleList.data-v-7aec4fa5 {
+    position: relative;
+    padding-top: 60rpx;
+    padding-bottom: 10rpx;
+    background: #fff;
+}
+.circleList--item.data-v-7aec4fa5 {
+    float: left;
+    width: 150rpx;
+    height: 170rpx;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-flow: column nowrap;
+            flex-flow: column nowrap;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+}
+.circleList--item.data-v-7aec4fa5:active {
+    opacity: 0.6;
+    -webkit-transition: opacity ease 0.1s;
+    transition: opacity ease 0.1s;
+}
+.circleList--item--circle.data-v-7aec4fa5 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-flow: column nowrap;
+            flex-flow: column nowrap;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    width: 100rpx;
+    height: 100rpx;
+    color: #fff;
+    border-radius: 100%;
+    background: #0f83ff;
+}
+.circleList--item--circle__image.data-v-7aec4fa5 {
+    width: 60rpx;
+    height: 60rpx;
+}
+.circleList--item--text.data-v-7aec4fa5 {
+    margin: 10rpx 0 30rpx 0;
+    height: 30rpx;
+    line-height: 30rpx;
+    font-size: 30rpx;
+}
+/* 按钮样式 */
+.btn-item.data-v-7aec4fa5 {
+  width: 30%;
+  height: 80rpx;
+  line-height: 80rpx;
+  background-color: white;
+}
+.return-btn-item.data-v-7aec4fa5 {
+  height: 70rpx;
+  line-height: 70rpx;
+  background-color: white;
+}
+.prompt-certain-btn.data-v-7aec4fa5{
+  color: white;
+  background-color: #00aaff;
+}
+.prompt-cancel-btn.data-v-7aec4fa5{
+  border: 1px solid #00aaff;
+}
+.contentFontColor.data-v-7aec4fa5 {
+  color: #868686;
+}
+
+

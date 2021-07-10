@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "topic-type": "/components/topicType",
+    "all-type": "/components/allType"
+  }
+}

@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* components/vas-prompt/vas-prompt.wxss */
+.prompt-box.data-v-71d43696 {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 999;
+	background: rgba(0, 0, 0, 0.5);
+}
+.prompt-content.data-v-71d43696 {
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	width: 80%;
+	max-width: 600rpx;
+	border: 2rpx solid #ccc;
+	border-radius: 10rpx;
+	box-sizing: bordre-box;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	overflow: hidden;
+	background: #fff;
+}
+.prompt-title.data-v-71d43696 {
+	width: 100%;
+	padding: 20rpx;
+	text-align: center;
+	font-size: 40rpx;
+	border-bottom: 2rpx solid gray;
+}
+.prompt-input.data-v-71d43696 {
+	margin: 8%;
+	padding: 10rpx 15rpx;
+	width: 80%;
+	height: 85rpx;
+	border: 1px solid #ccc;
+	border-radius: 10rpx;
+}
+.prompt-btn-group.data-v-71d43696 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.btn-item.data-v-71d43696 {
+	width: 30%;
+	margin-bottom: 40rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	background-color: white;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.prompt-certain-btn.data-v-71d43696 {
+	color: white;
+	background-color: #00aaff;
+}
+.prompt-cancel-btn.data-v-71d43696 {
+	border: 1px solid #00aaff;
+}
+.contentFontColor.data-v-71d43696 {
+	color: #868686;
+}
+.prompt-text.data-v-71d43696 {
+	margin-top: 15rpx;
+	font-size: 38rpx;
+}
+

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///E:/fustar2.0/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA,wCAAmB;;AAEnB;AACA,2M;AACAA,UAAU,CAACC,cAAD,CAAV,C","file":"pages/test/index.js","sourcesContent":["import 'uni-pages';import '@dcloudio/uni-stat';\n\nimport Vue from 'vue'            \nimport Page from './pages/test/index.vue'\ncreatePage(Page)"],"sourceRoot":""}

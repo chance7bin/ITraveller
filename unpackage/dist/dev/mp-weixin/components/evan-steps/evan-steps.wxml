@@ -1,0 +1,1 @@
+<view class="{{['evan-steps','evan-steps--'+direction]}}"><slot></slot></view>

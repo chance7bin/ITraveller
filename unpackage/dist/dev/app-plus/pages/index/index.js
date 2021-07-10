@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container.",[1],"data-v-30a8db42{ }\n.",[1],"top-nav.",[1],"data-v-30a8db42{ width: 100%; position: fixed; background-color: #ffffff; z-index: 999; }\n.",[1],"changeTheme.",[1],"data-v-30a8db42{ position: absolute; top: ",[0,70],"; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

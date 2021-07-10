@@ -1,0 +1,121 @@
+
+.detail-top.data-v-3e3a9ef7{
+	padding: 20rpx;
+	border-bottom: 20rpx solid #f7f6f6;
+}
+.top-title.data-v-3e3a9ef7{
+	font-size: 40rpx;
+	font-weight: bold;
+}
+.top-info.data-v-3e3a9ef7{
+	margin-top: 30rpx;
+	font-size: 30rpx;
+	color: #3B4144;
+}
+.top-img.data-v-3e3a9ef7{
+	margin-top: 10rpx;
+}
+.top-img image.data-v-3e3a9ef7{
+	width: 240rpx;
+	height: 180rpx;
+	border-radius: 20rpx;
+}
+.top-footer.data-v-3e3a9ef7{
+	margin-top: 30rpx;
+	font-size: 30rpx;
+	color: #686868;
+}
+.top-footer text.data-v-3e3a9ef7{
+	margin-right: 40rpx;
+}
+.topic-type.data-v-3e3a9ef7{
+	font-size: 30rpx;
+	background-color: #f7f6f6;
+	color: #686868;
+	padding: 5rpx 20rpx;
+	margin-left: 20rpx;
+	font-weight: normal;
+	border-radius: 10rpx;
+}
+.container-top.data-v-3e3a9ef7{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 30rpx 20rpx;
+	font-weight: bold;
+	border-bottom: 5rpx solid #f7f6f6;
+}
+.container-top button.data-v-3e3a9ef7{
+	background-color: #ffffff;
+	/* height: 60upx; */
+	width: 180rpx;
+	font-size: 30rpx;
+	font-weight: bold;
+	color: #9e9e9e;
+	border: 1rpx solid #ffffff;
+}
+.comment-button.data-v-3e3a9ef7{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.comment-list.data-v-3e3a9ef7{
+	padding: 20rpx;
+	border-bottom: 10rpx solid #f7f6f6;
+}
+.user-info.data-v-3e3a9ef7{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.user-img image.data-v-3e3a9ef7{
+	width: 50rpx;
+	height: 50rpx;
+	border-radius: 50%;
+}
+.user-name.data-v-3e3a9ef7{
+	margin-left: 10rpx;
+	color: #686868;
+	font-size: 28rpx;
+}
+.comment-content.data-v-3e3a9ef7{
+	margin-top: 20rpx;
+	font-size: 30rpx;
+	color: #4f4f4f;
+}
+.comment-footer.data-v-3e3a9ef7{
+	margin-top: 20rpx;
+	color: #686868;
+	font-size: 28rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.comment-footer button.data-v-3e3a9ef7{
+	background-color: #ffffff;
+	height: 50rpx;
+	width: 100rpx;
+	font-size: 20rpx;
+	font-weight: bold;
+	color: #9e9e9e;
+	border: 1rpx solid #ffffff;
+}
+.no-comment image.data-v-3e3a9ef7{
+	width: 100%;
+}
+

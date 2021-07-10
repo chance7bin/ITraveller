@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "路线详情",
+  "usingComponents": {
+    "evan-steps": "/components/evan-steps/evan-steps",
+    "evan-step": "/components/evan-steps/evan-step",
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发布话题",
+  "usingComponents": {
+    "uni-icons": "/node-modules/@dcloudio/uni-ui/lib/uni-icons/uni-icons",
+    "uni-popup": "/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup"
+  }
+}

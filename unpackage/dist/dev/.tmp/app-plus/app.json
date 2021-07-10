@@ -1,0 +1,76 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/plan/index",
+    "pages/trip/index",
+    "pages/route/routeDetail",
+    "pages/trip/toVehicle",
+    "pages/trip/selectPoint",
+    "pages/nearby/index",
+    "pages/trip/mapPage",
+    "pages/vehicleStrategy/index",
+    "pages/home/index",
+    "pages/question/index",
+    "pages/question/quiz",
+    "pages/detail/index",
+    "pages/user/index",
+    "pages/comment/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#0084ff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "height": "50px",
+    "fontSize": "10px",
+    "iconWidth": "24px",
+    "spacing": "3px",
+    "list": [
+      {
+        "pagePath": "pages/nearby/index",
+        "iconPath": "static/images/nearby.png",
+        "selectedIconPath": "static/images/nearby_active.png",
+        "text": "附近"
+      },
+      {
+        "pagePath": "pages/trip/index",
+        "iconPath": "static/images/trip.png",
+        "selectedIconPath": "static/images/trip_active.png",
+        "text": "出行"
+      },
+      {
+        "pagePath": "pages/question/index",
+        "iconPath": "static/images/qs.png",
+        "selectedIconPath": "static/images/qs.png",
+        "text": "发布"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/ciwei.png",
+        "selectedIconPath": "static/images/ciwei_hl.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "iconPath": "static/images/dianying.png",
+        "selectedIconPath": "static/images/dianying_hl.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "fustar2.0",
+  "compilerVersion": "2.6.5",
+  "usingComponents": {}
+}

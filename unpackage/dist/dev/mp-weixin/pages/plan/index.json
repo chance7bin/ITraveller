@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "路线推荐",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar"
+  }
+}

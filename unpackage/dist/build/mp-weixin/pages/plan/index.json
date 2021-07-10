@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "路线推荐",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar"
+  }
+}

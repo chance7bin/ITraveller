@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "附近",
+  "usingComponents": {
+    "prompt": "/components/prompt"
+  }
+}

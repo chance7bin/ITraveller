@@ -1,0 +1,204 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/plan/index",
+			"style": {
+				"navigationBarTitleText": "路线推荐"
+			}
+		},
+		
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登入"
+			}
+		},
+		{
+			"path": "pages/login/agreement",
+			"style": {
+				"navigationBarTitleText": "服务协议"
+			}
+		}, 
+		
+		{
+			"path": "pages/trip/mapPage",
+			"style": {
+				"navigationBarTitleText": "地图选点"
+			} 
+		}, 
+		
+		{
+			"path": "pages/question/index",
+			"style": {
+				"navigationBarTitleText": "我的", 
+				"enablePullDownRefresh": true
+			}
+		},	
+		
+		
+		
+		
+		{
+			"path": "pages/trip/index",
+			"style": {
+				"navigationBarTitleText": "出行"
+			}
+		},
+		
+		{
+			"path": "pages/login/regist",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "动态",
+				"enablePullDownRefresh": true 
+			}
+		},
+		
+		{
+			"path": "pages/plan/showRoute",
+			"style": {
+				"navigationBarTitleText": "路线展示"
+			}
+		},
+		{
+			"path": "pages/user/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		
+		
+		{
+			"path": "pages/route/routeDetail",
+			"style": {
+				"navigationBarTitleText": "路线详情"
+			}
+		},
+		
+		
+		{
+			"path": "pages/trip/toVehicle",
+			"style": {
+				"navigationBarTitleText": "出行方式"
+			}
+		},
+		{
+			"path": "pages/trip/selectPoint",
+			"style": {
+				"navigationBarTitleText": "选择地址" 
+			}
+		},
+		
+		
+		
+		{
+			"path": "pages/nearby/index",
+			"style": {
+				"navigationBarTitleText": "附近"
+			}
+		},
+		
+		
+		
+		
+		{
+			"path": "pages/vehicleStrategy/index",
+			"style": {
+				"navigationBarTitleText": "出行方式"
+			}
+		},
+		
+		
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "地图"
+			}
+		},
+		
+		
+		
+		{
+			"path": "pages/question/quiz",
+			"style": {
+				"navigationBarTitleText": "发布话题"
+			}
+		},
+		
+		{
+			"path": "pages/detail/index",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"enablePullDownRefresh": true
+			}
+		},
+		
+		{
+			"path": "pages/comment/index",
+			"style": {
+				"navigationBarTitleText": "评论"
+			}
+		}
+		
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#0084ff",
+		// "navigationBarBackgroundColor": "#F8F8F8",
+		// "backgroundColor": "#0084ff"
+		"backgroundColor": "#F8F8F8"
+	}
+	// "tabBar": {
+	// 	"color": "#7A7E83",
+	// 	"selectedColor": "#0084ff",
+	// 	"borderStyle": "black",
+	// 	"backgroundColor": "#ffffff",
+	// 	"height": "50px",
+	// 	"fontSize": "10px",
+	// 	"iconWidth": "24px",
+	// 	"spacing": "3px",
+	// 	"list": [
+		
+	// 	{
+	// 		"pagePath": "pages/nearby/index",
+	// 		"iconPath": "static/images/nearby.png",
+	// 		"selectedIconPath": "static/images/nearby_active.png",
+	// 		"text": "附近"
+	// 	},
+	// 	{
+	// 		"pagePath": "pages/trip/index",
+	// 		"iconPath": "static/images/trip.png",
+	// 		"selectedIconPath": "static/images/trip_active.png",
+	// 		"text": "出行"  
+	// 	},
+	// 	{
+	// 		"pagePath": "pages/question/index",
+	// 		"iconPath": "static/images/qs.png",
+	// 		"selectedIconPath": "static/images/qs.png",
+	// 		"text": "我的"
+	// 	},
+	// 	{
+	// 		"pagePath": "pages/index/index",
+	// 		"iconPath": "static/images/news.png",
+	// 		"selectedIconPath": "static/images/news_active.png",
+	// 		"text": "动态"
+	// 	},
+		
+		
+	// 	{	
+	// 		"pagePath": "pages/plan/index",
+	// 		"iconPath": "static/images/plan.png",
+	// 		"selectedIconPath": "static/images/plan_active.png",
+	// 		"text": "路线规划"
+	// 	}
+	// 	]
+	// }
+}

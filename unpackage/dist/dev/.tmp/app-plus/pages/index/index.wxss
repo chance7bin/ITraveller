@@ -1,0 +1,17 @@
+
+.container.data-v-30a8db42{
+}
+.top-nav.data-v-30a8db42{
+	/* margin-top: 5upx; */
+	width: 100%;
+	/* margin-left: 10%; */
+	/* padding: 0 10%; */
+	position: fixed;
+	background-color: #ffffff;
+	z-index: 999;
+}
+.changeTheme.data-v-30a8db42{
+	position: absolute;
+	top: 70rpx;
+}
+

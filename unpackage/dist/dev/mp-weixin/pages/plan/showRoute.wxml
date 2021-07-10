@@ -1,0 +1,1 @@
+<view class="data-v-755cc789"><map style="width:100%;height:1100rpx;" id="myMap" markers="{{markers}}" longitude="{{longitude}}" latitude="{{latitude}}" scale="{{scale}}" polyline="{{polyline}}" show-location class="data-v-755cc789"></map></view>

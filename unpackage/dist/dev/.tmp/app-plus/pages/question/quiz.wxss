@@ -1,0 +1,94 @@
+
+.container.data-v-fba459ea{
+		padding: 30rpx;
+}
+.input-title.data-v-fba459ea{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		height: 80rpx;
+		/* background-color: #0081FF; */
+		font-size: 40rpx;
+		font-weight: bold;
+}
+.input-content.data-v-fba459ea{
+		padding-top: 20rpx;
+		height: 200rpx;
+}
+.choose-img.data-v-fba459ea{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		height: 220rpx;
+		width: 220rpx;
+		background-color: #f4f5f9;
+}
+.button.data-v-fba459ea{
+		margin-top: 50rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-pack: end;
+		-webkit-justify-content: flex-end;
+		        justify-content: flex-end;
+}
+.button button.data-v-fba459ea{
+		color: #1584FF;
+		border: 1rpx solid #1584FF;
+}
+.reset.data-v-fba459ea{
+		margin-right: 50rpx;
+}
+.img-text.data-v-fba459ea{
+		color: #989eb4;
+		font-size: 26rpx;
+		font-weight: bold;
+}
+.choose-topic.data-v-fba459ea{
+		margin-top: 20rpx;
+}
+.picker-content.data-v-fba459ea{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		/* background-color: #09BB07; */
+		height: 70rpx;
+}
+.picker-text.data-v-fba459ea{
+		color: #1584ff;
+}
+.picker-input.data-v-fba459ea{
+		margin-left: 20rpx;
+		width: 100rpx;
+		background-color: #ebf5ff;
+		color: #1584ff;
+		text-align: center;
+		border-radius: 20rpx;
+}
+.add-img.data-v-fba459ea{
+		margin-top: 30rpx;
+		height: 250rpx;
+		width: 250rpx;
+		/* background-color: #f4f5f9; */
+}
+.add-img image.data-v-fba459ea{
+		height: 250rpx;
+		width: 250rpx;
+}
+

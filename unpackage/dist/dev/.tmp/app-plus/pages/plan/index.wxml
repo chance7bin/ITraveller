@@ -1,0 +1,1 @@
+<view class="data-v-5e291a8f"><button data-event-opts="{{[['tap',[['calculateRoute',['$0'],['selectedSight']]]]]}}" bindtap="__e" class="data-v-5e291a8f">click me</button></view>

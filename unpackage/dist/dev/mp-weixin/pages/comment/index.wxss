@@ -1,0 +1,27 @@
+
+.container.data-v-1ff4b34f{
+}
+.comment-top.data-v-1ff4b34f{
+	padding: 30rpx;
+	font-size: 40rpx;
+	font-weight: bold;
+	border-bottom: 20rpx solid #f7f6f6;
+}
+.comment-detail.data-v-1ff4b34f{
+	padding: 30rpx;
+}
+.submit-comment button.data-v-1ff4b34f{
+	text-align: center;
+	margin-top: 50rpx;
+	width: 150rpx;
+	font-size: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	color: #1584FF;
+	border: 1rpx solid #1584FF;
+}
+

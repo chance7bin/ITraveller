@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['nearby_search',['$event']]]]]}}" bindtap="__e">搜索周边KFC</button><map style="width:100%;height:300px;" id="myMap" markers="{{markers}}" longitude="118.164394" latitude="24.732373" scale="14"></map></view>

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "动态",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-segmented-control": "/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control",
+    "topic-component": "/components/topicComponent",
+    "recommend-component": "/components/recommendComponent",
+    "hot-search": "/components/hotSearch"
+  }
+}
